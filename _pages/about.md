@@ -54,12 +54,12 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>](https://ieeexplore.ieee.org/document/11180138/)     
+1. `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>](/papers/pcfinder-tifs25.pdf)     
   <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen.   
   In *IEEE Transactions on Information Forensics and Security*, 2025.   
   <span style="color:#B00C00">*CCF-A, Top Security Journal*</span>
 
-1. `TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [<span class="pdf">PDF</span>](https://ieeexplore.ieee.org/document/11181216)     
+1. `TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [<span class="pdf">PDF</span>](/papers/phojoy-tse25.pdf)   
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Guangliang Yang, Shengke Ye, Chengyu Yang, Fengyu Liu, Xiapu Luo, Min Yang.   
   In *IEEE Transactions on Software Engineering*, 2025.   
   <span style="color:#B00C00">*CCF-A, Top Software Engineering Journal*</span>
@@ -101,7 +101,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.     
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>    
 
-1. `USENIX SEC'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [<span class="pdf">PDF</span>]()  
+1. `USENIX SEC'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [<span class="pdf">PDF</span>](/papers/agentdos-security26.pdf)  
   Jiaqi Luo, Jiarun Dai, Fengyu Liu, Songyang Peng, <span style="color:blue">Youkun Shi</span>, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang.   
   In *Proceedings of the 35th USENIX Security Symposium (USENIX SEC)*, August, 2026.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
