@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Youkun Shi (施游堃)"
+title                    : "Shelton Youkun Shi (施游堃)"
 description              : ""
 repository               : "syksec/syksec.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Youkun Shi"
+  name             : "Shelton Youkun Shi"
   avatar           : "images/photo.jpg"
   bio              : "The Hong Kong Polytechnic University"
   location         : "Hong Kong SAR"
