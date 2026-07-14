@@ -21,7 +21,8 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
-- [*2026.05*] &nbsp;🎉 one paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/) after shepherding. Congrats Bocheng!
+- [*2026.07*] &nbsp;🎉 One paper accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206). Congrats Zihan!
+- [*2026.05*] &nbsp;🎉 One paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/) after shepherding. Congrats Bocheng!
 - [*2026.04*] &nbsp;🎉 Three papers accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/). Congrats Fengyu and me!
 - [*2026.03*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for **AsiaCCS 2027**, which will be held July 12–16, 2027, in Macau, China.
 - [*2026.01*] &nbsp;🎉 One paper accepted by [**USENIX Security 2026**](https://www.usenix.org/conference/usenixsecurity26). Congrats Jiaqi!
@@ -30,7 +31,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - [*2025.10*] &nbsp;🎉 Our broken access control detection work on web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
 - [*2025.10*] &nbsp;🎉 One talk accepted by [**BlackHat EUROPE 2025**](https://www.blackhat.com/eu-25/)!
 - [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation Award**</span>!
-- [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)! 
+<!-- - [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!   -->
 <!-- - [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)!  -->
 <!-- - [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)! -->
 <!-- - [*2025.05*] &nbsp;🎉 Our vulnerability detection work on microservice-structured web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)! -->
@@ -91,6 +92,11 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 ## 🤝 Co-Authored Publications
+1. `TIFS'25` **Measuring and Understanding Expectation Inconsistency in Java Libraries** [<span class="pdf">PDF</span>]()
+  Zihan Lin, Yuan Zhang, Letian Yuan, Guangliang Yang, <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Xin Tan, Min Yan.   
+  In *IEEE Transactions on Information Forensics and Security*, 2026.   
+  <span style="color:#B00C00">*CCF-A, Top Security Journal*</span>
+
 1. `ACM CCS'26` **From Fix to Flaw: Understanding and Revealing Incomplete Patches for Link Following Vulnerabilities** [<span class="pdf">PDF</span>]()  
   Bocheng Xiang, Yuan Zhang, Hao Huang, <span style="color:blue">Youkun Shi</span>.      
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.     
