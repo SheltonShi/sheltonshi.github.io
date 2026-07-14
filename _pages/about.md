@@ -92,7 +92,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 ## 🤝 Co-Authored Publications
-1. `TIFS'25` **Measuring and Understanding Expectation Inconsistency in Java Libraries** [<span class="pdf">PDF</span>]()
+1. `TIFS'26` **Measuring and Understanding Expectation Inconsistency in Java Libraries** [<span class="pdf">PDF</span>]()
   Zihan Lin, Yuan Zhang, Letian Yuan, Guangliang Yang, <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Xin Tan, Min Yan.   
   In *IEEE Transactions on Information Forensics and Security*, 2026.   
   <span style="color:#B00C00">*CCF-A, Top Security Journal*</span>
