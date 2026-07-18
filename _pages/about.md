@@ -21,6 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
+- [*2026.07*] &nbsp;🎉 One paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/)!
 - [*2026.07*] &nbsp;🎉 One paper accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206). Congrats Zihan!
 - [*2026.05*] &nbsp;🎉 One paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/) after shepherding. Congrats Bocheng!
 - [*2026.04*] &nbsp;🎉 Three papers accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/). Congrats Fengyu and me!
@@ -45,6 +46,11 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 # 📝 Publications 
 
 ## 👍🏻 Lead Publications
+1. `CCS'26` **VUnitFuzz: Decoupling PHP Sink Verification from Monolithic Execution for Taint-Style Vulnerability Detection** [<span class="pdf">PDF</span>]()   
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Jiarun Dai, Fengyu Liu, Xiapu Luo.    
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
+
 1. `CCS'26` **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [<span class="pdf">PDF</span>]()   
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Lei Zhang, Jiarun Dai, Tianhao Bai, Fengyu Liu, Bocheng Xiang, Xiapu Luo, Min Yang.    
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
