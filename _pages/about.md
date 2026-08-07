@@ -176,6 +176,8 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 
 - ``TDSC`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 
+- ``TOSEM`` [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/TOSEM)
+
 - ``TNET`` [IEEE Transactions on Networking](https://www.comsoc.org/publications/journals/ieee-tnet)   
 
 - ``TNSM`` [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-transactions-network-and-service-management)
