@@ -21,6 +21,7 @@ Youkun Shi is a JC STEM Early Career Research Fellow and a Distinguished Postdoc
 Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and served as its captain from 2019 to 2021. The team has competed in numerous prestigious international CTF competitions and achieved notable results.
 
 # 🔥 News
+- [*2026.08*] &nbsp;🎉 One paper accepted by [**NDSS 2027**](https://www.ndss-symposium.org/ndss2027/) after shepherding. Congrats Yunpeng!
 - [*2026.07*] &nbsp;🎉 I am honored to have been awarded the <span style="color:#B00C00">**JC STEM Early Career Research Fellowship for Translation and Application**</span> and sincerely grateful for the generous support of **The Hong Kong Jockey Club Charities Trust**!
 - [*2026.07*] &nbsp;🎉 One paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/)!
 - [*2026.07*] &nbsp;🎉 One paper accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206). Congrats Zihan!
@@ -32,7 +33,7 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 - [*2025.12*] &nbsp;🎉 One paper accepted by [**NDSS 2026**](https://www.ndss-symposium.org/ndss2026/). Congrats Bocheng!
 - [*2025.10*] &nbsp;🎉 Our broken access control detection work on web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
 - [*2025.10*] &nbsp;🎉 One talk accepted by [**BlackHat EUROPE 2025**](https://www.blackhat.com/eu-25/)!
-- [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Outstanding Doctoral Dissertation Award**</span>!
+<!-- - [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Outstanding Doctoral Dissertation Award**</span>! -->
 <!-- - [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)!   -->
 <!-- - [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)!  -->
 <!-- - [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)! -->
@@ -99,6 +100,11 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 
 
 ## 🤝 Co-Authored Publications
+1. `NDSS'27` **Breaking the Cycle: Automated Root Cause Analysis of Game Logic Exploits using LLM-powered Hardware Virtualization** [<span class="pdf">PDF</span>]()  
+  Yunpeng Tian, Zhen Wei, Yifei Xu, Xiaoyu Zhou, <span style="color:blue">Youkun Shi</span>, Xiapu Luo.  
+  In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2027*, March 2027.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
+  
 1. `TIFS'26` **Measuring and Understanding Expectation Inconsistency in Java Libraries** [<span class="pdf">PDF</span>]()   
   Zihan Lin, Yuan Zhang, Letian Yuan, Guangliang Yang, <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Xin Tan, Min Yang.   
   In *IEEE Transactions on Information Forensics and Security*, 2026.   
