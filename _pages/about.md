@@ -47,7 +47,7 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 
 # 📝 Publications 
 
-## 👍🏻 Lead Publications
+## 👍🏻 Selected Publications
 1. `CCS'26` **VUnitFuzz: Decoupling PHP Sink Verification from Monolithic Execution for Taint-Style Vulnerability Detection** [<span class="pdf">PDF</span>]()   
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Jiarun Dai, Fengyu Liu, Xiapu Luo.    
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
@@ -99,7 +99,7 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 
-## 🤝 Co-Authored Publications
+## 🤝 Other Publications
 1. `NDSS'27` **Breaking the Cycle: Automated Root Cause Analysis of Game Logic Exploits using LLM-powered Hardware Virtualization** [<span class="pdf">PDF</span>]()  
   Yunpeng Tian, Zhen Wei, Yifei Xu, Xiaoyu Zhou, <span style="color:blue">Youkun Shi</span>, Xiapu Luo.  
   In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2027*, March 2027.   
