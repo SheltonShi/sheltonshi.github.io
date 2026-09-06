@@ -22,7 +22,7 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 
 # 🔥 News
 - [*2026.08*] &nbsp;🎉 One paper accepted by [**NDSS 2027**](https://www.ndss-symposium.org/ndss2027/) after shepherding. Congrats Yunpeng!
-- [*2026.07*] &nbsp;🎉 I am honored to have been awarded the <span style="color:#B00C00">**JC STEM Early Career Research Fellowship for Translation and Application**</span> and sincerely grateful for the generous support of **The Hong Kong Jockey Club Charities Trust**!
+- [*2026.07*] &nbsp;🎉 I am honored to have been awarded the <span style="color:#B00C00">[**JC STEM Early Career Research Fellowship for Translation and Application**](https://www.jcstem.hk/en-US/Programmes/JC-STEM-Fellowship/)</span> and sincerely grateful for the generous support of **The Hong Kong Jockey Club Charities Trust**!
 - [*2026.07*] &nbsp;🎉 One paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/)!
 - [*2026.07*] &nbsp;🎉 One paper accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206). Congrats Zihan!
 - [*2026.05*] &nbsp;🎉 One paper accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/) after shepherding. Congrats Bocheng!
@@ -148,20 +148,26 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 # 🎖 Honors and Awards
-- *2025*, Outstanding Doctoral Dissertation Award, ACM SIGWEB China (2 recipients annually)
+- *2025*, Outstanding Doctoral Dissertation Award, ACM SIGWEB China (Top 2 nationwide)
 - *2025*, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (<1% submission)
 - *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (<1% submission)
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
-- *2024*, Academic Star, Fudan University (10 recipients annually)
+- *2024*, Academic Star, Fudan University (Top 10 in STEM across FDU)
 
 # 🌟 Fellowships and Grants 
-- *2026 - 2029*, JC STEM Early Career Research Fellowship for Translation and Application (Funded by The Hong Kong Jockey Club Charities Trust)
-- *2026 - 2028*, PolyU Distinguished Postdoctoral Fellowship Scheme (Funded by The Hong Kong Polytechnic University (PolyU))
-- *2025 - 2026*, RTH-ITF Research Talent Postdoctoral Fellowship (Funded by Innovation and Technology Fund (ITF))
+- *2026 - 2029*, [JC STEM Early Career Research Fellowship for Translation and Application](https://www.jcstem.hk/en-US/Programmes/JC-STEM-Fellowship/) (Top 10 in STEM across Hong Kong)
+  -  Funded by The Hong Kong Jockey Club Charities Trust
+- *2026 - 2028*, PolyU Distinguished Postdoctoral Fellowship Scheme (Top 2 in STEM across PolyU)
+  - Funded by The Hong Kong Polytechnic University
+- *2025 - 2026*, RTH-ITF Research Talent Postdoctoral Fellowship
+  - Supported by Innovation and Technology Fund
 - *2021 - 2022*, National Scholarship for Ph.D. Candidates (Top 0.2% nationwide)
+  - Supported by The Ministry of Education of the People's Republic of China)
 - *2017 - 2018*, National Scholarship for B.S. Candidates (Top 0.2% nationwide)
+  - Supported by The Ministry of Education of the People's Republic of China)
 - *2016 - 2017*, National Scholarship for B.S. Candidates (Top 0.2% nationwide)
+  - Supported by The Ministry of Education of the People's Republic of China 
 
 # 🏆 Skill Competitions
 - *2021*, 🏆 Champion, 6th XCTF International League (Final Round)
@@ -193,11 +199,4 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 ## Conference Reviewing
 
 ### Program Committee Member
-- 2027: AsiaCCS
-
-### Sub-Reviewer
-- 2026：WWW, DSN, IWQoS, ACISP, AsiaCCS
-- 2025：INFOCOM, IWQoS, ISSRE, ESORICS, ISSCC, AsiaCCS, ICICS
-- 2024：USENIX Security, NDSS, CCS
-- 2023：USENIX Security, IEEE S&P, NDSS
-- 2022：USENIX Security, IEEE S&P, WWW, ESORICS, AsiaCCS
+- 2027: [AsiaCCS](https://asiaccs2027.cityu.edu.mo/index.html)
