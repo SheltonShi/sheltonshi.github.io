@@ -50,104 +50,110 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 # 📝 Publications 
 
 ## 👍🏻 Selected Publications
-1. `CCS'26` **VUnitFuzz: Decoupling PHP Sink Verification from Monolithic Execution for Taint-Style Vulnerability Detection** [<span class="pdf">PDF</span>]()   
+{: #selected-publications}
+
+1. `IEEE S&P'27` **FBOLA: Detecting Broken Object-Level Authorization Vulnerabilities via Frontend-Backend Integrated Static Analysis** [<span class="pdf">PDF</span>]()  
+  Ziao Li<sup>\*</sup>, <span style="color:blue">Youkun Shi<sup>\*</sup></span>, Jiarun Dai, Yuanhao Li, Fengyu Liu, Yi Xu, Lei Zhang, Yuan Zhang (*\* co-first authors*).  
+  In *Proceedings of 48th IEEE Symposium on Security and Privacy (S&P)*, May 2027.   
+
+1. `ACM CCS'26` **VUnitFuzz: Decoupling PHP Sink Verification from Monolithic Execution for Taint-Style Vulnerability Detection** [<span class="pdf">PDF</span>]()   
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Jiarun Dai, Fengyu Liu, Xiapu Luo.    
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `CCS'26` **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [<span class="pdf">PDF</span>]()   
+1. `ACM CCS'26` **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [<span class="pdf">PDF</span>]()   
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Lei Zhang, Jiarun Dai, Tianhao Bai, Fengyu Liu, Bocheng Xiang, Xiapu Luo, Min Yang.    
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `CCS'26` **Reproducing Web Application Vulnerabilities with Patch-Guided Routing Inference and Sink Exploration** [<span class="pdf">PDF</span>]()    
+1. `ACM CCS'26` **Reproducing Web Application Vulnerabilities with Patch-Guided Routing Inference and Sink Exploration** [<span class="pdf">PDF</span>]()    
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Feng Xue, Jiarun Dai, Lei Zhang, Fengyu Liu, Bocheng Xiang, Xiapu Luo.    
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>](/papers/pcfinder-tifs25.pdf)     
+1. `IEEE TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>](/papers/pcfinder-tifs25.pdf)     
   <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen.   
-  In *IEEE Transactions on Information Forensics and Security*, 2025.   
-  <span style="color:#B00C00">*CCF-A, Top Security Journal*</span>
+  In *IEEE Transactions on Information Forensics and Security (TIFS)*, 2025.   
 
-1. `TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [<span class="pdf">PDF</span>](/papers/phojoy-tse25.pdf)   
+1. `IEEE TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [<span class="pdf">PDF</span>](/papers/phojoy-tse25.pdf)   
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Guangliang Yang, Shengke Ye, Chengyu Yang, Fengyu Liu, Xiapu Luo, Min Yang.   
-  In *IEEE Transactions on Software Engineering*, 2025.   
-  <span style="color:#B00C00">*CCF-A, Top Software Engineering Journal*</span>
+  In *IEEE Transactions on Software Engineering (TSE)*, 2025.   
 
 1. `USENIX SEC'25` **XSSky: Detecting XSS Vulnerabilities through Local Path-Persistent Fuzzing** [<span class="pdf">PDF</span>](/papers/xssky-security25.pdf)     
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Feng Xue, Jiarun Dai, Fengyu Liu, Lei Zhang, Xiapu Luo, Min Yang.   
   In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications** [<span class="pdf">PDF</span>](/papers/mocguard-oakland25.pdf)  
+1. `IEEE S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications** [<span class="pdf">PDF</span>](/papers/mocguard-oakland25.pdf)  
   Fengyu Liu<sup>\*</sup>, <span style="color:blue">Youkun Shi<sup>\*</sup></span>, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang (*\* co-first authors*).  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications** [<span class="pdf">PDF</span>](/papers/recurscan-www24.pdf)  
+1. `ACM WWW'24` **RecurScan: Detecting Recurring Vulnerabilities in PHP Web Applications** [<span class="pdf">PDF</span>](/papers/recurscan-www24.pdf)  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhao Bai, Lei Zhang, Xin Tan, Min Yang.  
   In *Proceedings of the 33rd ACM Web Conference (WWW)*, May, 2024.   
-  <span style="color:#B00C00">*CCF-A, Top Web Research Conference*</span>
 
-1. `ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities** [<span class="pdf">PDF</span>](/papers/afv-ase22.pdf)  
+1. `IEEE/ACM ASE'22` **Precise (Un)Affected Version Analysis for Web Vulnerabilities** [<span class="pdf">PDF</span>](/papers/afv-ase22.pdf)  
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Min Yang.  
   In *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, October, 2022.   
-  <span style="color:#B00C00">*CCF-A, Top Software Engineering Conference*</span>
 
 1. `USENIX SEC'22` **Backporting Security Patches of Web Applications** [<span class="pdf">PDF</span>](/papers/skyport-security22.pdf)    
   <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Tianhan Luo, Xiangyu Mao, Yinzhi Cao, Ziwen Wang, Yudi Zhao, Zongan Huang, Min Yang.  
   In *Proceedings of the 31st USENIX Security Symposium (USENIX SEC)*, August, 2022.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 
 ## 🤝 Other Publications
+{: #other-publications}
+
+1. `IEEE S&P'27` **Babel of Voices: Demystifying Security Threats Arising from Cross-Specification URL Parsing Inconsistencies in Web Applications** [<span class="pdf">PDF</span>]()  
+  Qiyi Zhang, Anmao Gou, <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Yuan Zhang.  
+  In *Proceedings of 48th IEEE Symposium on Security and Privacy (S&P)*, May 2027.   
+
+1. `NDSS'27` **From Flow to Flaw: Automatic Detection of Taint-Style Vulnerabilities in Low-Code Agent Development Frameworks** [<span class="pdf">PDF</span>]()  
+  Jiaqi Luo, Zhuoxiang Shen, Kefan Wu, Fengyu Liu, <span style="color:blue">Youkun Shi</span>, Mo Zhu, Kangcheng Deng, Xudong Pan, Geng Hong, Yuan Zhang, Jiarun Dai.  
+  In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2027*, March 2027.   
+
 1. `NDSS'27` **Breaking the Cycle: Automated Root Cause Analysis of Game Logic Exploits using LLM-powered Hardware Virtualization** [<span class="pdf">PDF</span>]()  
   Yunpeng Tian, Zhen Wei, Yifei Xu, Xiaoyu Zhou, <span style="color:blue">Youkun Shi</span>, Xiapu Luo.  
   In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2027*, March 2027.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
   
-1. `TIFS'26` **Measuring and Understanding Expectation Inconsistency in Java Libraries** [<span class="pdf">PDF</span>]()   
+1. `IEEE TIFS'26` **Measuring and Understanding Expectation Inconsistency in Java Libraries** [<span class="pdf">PDF</span>]()   
   Zihan Lin, Yuan Zhang, Letian Yuan, Guangliang Yang, <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Xin Tan, Min Yang.   
-  In *IEEE Transactions on Information Forensics and Security*, 2026.   
-  <span style="color:#B00C00">*CCF-A, Top Security Journal*</span>
+  In *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026.   
 
 1. `ACM CCS'26` **From Fix to Flaw: Understanding and Revealing Incomplete Patches for Link Following Vulnerabilities** [<span class="pdf">PDF</span>]()  
   Bocheng Xiang, Yuan Zhang, Hao Huang, <span style="color:blue">Youkun Shi</span>.      
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.     
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `ACM CCS'26` **BACAgent: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]()  
   Fengyu Liu, Yuan Zhang, Zheng Lou, Tian Chen, <span style="color:blue">Youkun Shi</span>, Jiarun Dai, Enhao Li, Guangyu Zhou, Zhongfu Su, Zequn Fang.  
   In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.     
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>    
 
 1. `USENIX SEC'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [<span class="pdf">PDF</span>](/papers/agentdos-security26.pdf)  
   Jiaqi Luo, Jiarun Dai, Fengyu Liu, Songyang Peng, <span style="color:blue">Youkun Shi</span>, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang.   
   In *Proceedings of the 35th USENIX Security Symposium (USENIX SEC)*, August, 2026.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [<span class="pdf">PDF</span>](/papers/linkguard-ndss26.pdf)  
   Bocheng Xiang, Yuan Zhang, Hao Huang, Fengyu Liu, <span style="color:blue">Youkun Shi</span>.  
   In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2026*, February 2026.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>](/papers/bacscan-ccs25.pdf) <span class="award">Distinguished Paper Award</span>  
+1. `ACM CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>](/papers/bacscan-ccs25.pdf) <span class="award">Distinguished Paper Award</span>  
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025.   
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `USENIX SEC'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [<span class="pdf">PDF</span>](/papers/agentfuzz-security25.pdf)  
   Fengyu Liu, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, <span style="color:blue">Youkun Shi</span>, Ke Li, Chengyuan Zhou, Hao Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX SEC)*, August, 2025.    
-  Presented at **BlackHat EUROPE 2025** [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]    
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-1. `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf) <span class="award">Distinguished Paper Award</span>  
+1. `IEEE S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [<span class="pdf">PDF</span>](/papers/mscan-oakland25.pdf) <span class="award">Distinguished Paper Award</span> 
   Fengyu Liu, Yuan Zhang, Tian Chen, <span style="color:blue">Youkun Shi</span>, Guangliang Yang, Zihan Lin, Min Yang, Junyao He, Qi Li.  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
-  Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
-  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
+
+<script>
+(() => {
+  const selected = document.querySelector("#selected-publications + ol");
+  const other = document.querySelector("#other-publications + ol");
+
+  if (selected && other) {
+    other.start = selected.start + selected.children.length;
+  }
+})();
+</script>
 
 # 🎖 Honors and Awards
 - *2025*, Outstanding Doctoral Dissertation Award, ACM SIGWEB China (Top 2 nationwide)
