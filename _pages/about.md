@@ -21,6 +21,7 @@ Youkun Shi is a JC STEM Early Career Research Fellow and a Distinguished Postdoc
 Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and served as its captain from 2019 to 2021. The team has competed in numerous prestigious international CTF competitions and achieved notable results.
 
 # 🔥 News
+- [*2026.10*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for the Research Track of **WWW 2027**, which will be held May 12–14, 2027, in Dublin, Ireland.
 - [*2026.09*] &nbsp;🎉 One paper accepted by [**NDSS 2027**](https://www.ndss-symposium.org/ndss2027/) after revision. Congrats Jiaqi!
 - [*2026.09*] &nbsp;🎉 two papers accepted by [**IEEE S&P 2027**](https://sp2027.ieee-security.org/). Congrats Ziao and Qiyi!
 - [*2026.08*] &nbsp;🎉 One paper accepted by [**NDSS 2027**](https://www.ndss-symposium.org/ndss2027/) after shepherding. Congrats Yunpeng!
@@ -207,4 +208,5 @@ Moreover, Youkun Shi co-founded Whitzard, a CTF team at Fudan University, and se
 ## Conference Reviewing
 
 ### Program Committee Member
-- 2027: [AsiaCCS](https://asiaccs2027.cityu.edu.mo/index.html)
+- [AsiaCCS](https://asiaccs2027.cityu.edu.mo/index.html): 2027   
+- [WWW](https://www2027.thewebconf.org/): 2027  
